@@ -1,0 +1,24 @@
+title = "SAM'S WORLD"
+theme = "solar-theme-hugo"
+paginate = 10
+pygmentsStyle = "solarized-light" # solarized-light, -dark or -dark256
+copyright = " "
+
+[params]
+  scheme = "preference" # light, dark, gray or preference
+  description = "Let this be my last song."
+
+[menu]
+  [[menu.main]]
+    name = "Feed"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/ChiefMateStarbuck"
+    weight = -100
+
+  [[menu.main]]
+    name = "Bird App"
+    url = "https://twitter.com/possiblynotabot"
