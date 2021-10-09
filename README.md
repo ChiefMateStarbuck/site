@@ -1,3 +1,3 @@
 # site
-its new bitch
-and it's my newwwwwww bloggggg 
+its new
+and it's my bloggggg 
