@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Septimus</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Septimus</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 14 Nov 2018 19:10:28 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Memory</title>
-      <link>//localhost:1313/tags/memory/</link>
+      <link>/tags/memory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/memory/</guid>
+      <guid>/tags/memory/</guid>
       <description></description>
     </item>
     <item>
       <title>Drive</title>
-      <link>//localhost:1313/tags/drive/</link>
+      <link>/tags/drive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/drive/</guid>
+      <guid>/tags/drive/</guid>
       <description></description>
     </item>
     <item>
       <title>War</title>
-      <link>//localhost:1313/tags/war/</link>
+      <link>/tags/war/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/war/</guid>
+      <guid>/tags/war/</guid>
       <description></description>
     </item>
   </channel>
