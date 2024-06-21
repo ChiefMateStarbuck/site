@@ -1,12 +1,14 @@
-title = "Septimus Rocks"
-theme = "solar-theme-hugo"
+title = "Septimus"
+theme = "archie"
 paginate = 10
-pygmentsStyle = "solarized-light" # solarized-light, -dark or -dark256
-copyright = " "
+pygmentsstyle = "monokai"
+copyright = ""
 
 [params]
   scheme = "preference" # light, dark, gray or preference
-  description = "Let this be my last song."
+  subtitle = "Let this be my last song."
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 
 [menu]
   [[menu.main]]
@@ -18,7 +20,3 @@ copyright = " "
     name = "GitHub"
     url = "https://github.com/ChiefMateStarbuck"
     weight = -100
-
-  [[menu.main]]
-    name = "Bird App"
-    url = "https://twitter.com/possiblynotabot"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memory on Septimus</title>
+    <link>//localhost:1313/tags/memory/</link>
+    <description>Recent content in Memory on Septimus</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 14 Nov 2018 19:10:28 -0500</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/memory/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Honestly</title>
+      <link>//localhost:1313/posts/honeslty/</link>
+      <pubDate>Wed, 14 Nov 2018 19:10:28 -0500</pubDate>
+      <guid>//localhost:1313/posts/honeslty/</guid>
+      <description>I thought of something on my way home from university today. The thought was beautiful, tranquil, and relaxing. It was complete, strikingly opposed to the other bland and broken ideas that have pervaded and perverted my mind of late.&#xA;This thought &amp;hellip; this thought held so many answers, not only for me, but for the global society I find myself in the direct middle of. But &amp;hellip; I forgot it.</description>
+    </item>
+  </channel>
+</rss>
