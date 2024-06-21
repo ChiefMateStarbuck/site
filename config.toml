@@ -2,6 +2,8 @@ title = "Septimus"
 theme = "archie"
 paginate = 10
 pygmentsstyle = "monokai"
+baseURL = "/"
+languageCode = "en-us"
 copyright = ""
 
 [params]
@@ -11,11 +13,6 @@ copyright = ""
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 
 [menu]
-  [[menu.main]]
-    name = "Feed"
-    url = "/"
-    weight = -110
-
   [[menu.main]]
     name = "GitHub"
     url = "https://github.com/ChiefMateStarbuck"

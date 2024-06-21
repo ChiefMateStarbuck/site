@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drive on Septimus</title>
-    <link>/tags/drive/</link>
+    <link>//localhost:1313/tags/drive/</link>
     <description>Recent content in Drive on Septimus</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
     <lastBuildDate>Mon, 01 Oct 2018 14:53:50 -0400</lastBuildDate>
-    <atom:link href="/tags/drive/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/drive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>War?!</title>
-      <link>/posts/war/</link>
+      <link>//localhost:1313/posts/war/</link>
       <pubDate>Mon, 01 Oct 2018 14:53:50 -0400</pubDate>
-      <guid>/posts/war/</guid>
+      <guid>//localhost:1313/posts/war/</guid>
       <description>I believe that it takes a certain amount of comfortability within yourself demanded by the solitude – or in many cases, loneliness – of academic study. It is not the difficulty per say, but the constant bombardment of new information that must be digested and regurgitated at such a seemingly never ending pace be excruciating. The material is not hard, and maybe there in lies another problem of the academic venture.</description>
     </item>
   </channel>
